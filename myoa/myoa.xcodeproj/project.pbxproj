@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		D754DB871D37FB5100365396 /* MOYAViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D754DB861D37FB5100365396 /* MOYAViewController.swift */; };
+		D754DB871D37FB5100365396 /* MYOAViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D754DB861D37FB5100365396 /* MYOAViewController.swift */; };
 		D7F2B3461D37E7B400F9C540 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7F2B3451D37E7B400F9C540 /* AppDelegate.swift */; };
 		D7F2B3481D37E7B400F9C540 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7F2B3471D37E7B400F9C540 /* ViewController.swift */; };
 		D7F2B34B1D37E7B400F9C540 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D7F2B3491D37E7B400F9C540 /* Main.storyboard */; };
@@ -35,7 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		D754DB861D37FB5100365396 /* MOYAViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MOYAViewController.swift; sourceTree = "<group>"; };
+		D754DB861D37FB5100365396 /* MYOAViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MYOAViewController.swift; sourceTree = "<group>"; };
 		D7F2B3421D37E7B400F9C540 /* myoa.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = myoa.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D7F2B3451D37E7B400F9C540 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D7F2B3471D37E7B400F9C540 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -105,7 +105,7 @@
 				D7F2B34C1D37E7B400F9C540 /* Assets.xcassets */,
 				D7F2B34E1D37E7B400F9C540 /* LaunchScreen.storyboard */,
 				D7F2B3511D37E7B400F9C540 /* Info.plist */,
-				D754DB861D37FB5100365396 /* MOYAViewController.swift */,
+				D754DB861D37FB5100365396 /* MYOAViewController.swift */,
 			);
 			path = myoa;
 			sourceTree = "<group>";
@@ -260,7 +260,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D7F2B3481D37E7B400F9C540 /* ViewController.swift in Sources */,
-				D754DB871D37FB5100365396 /* MOYAViewController.swift in Sources */,
+				D754DB871D37FB5100365396 /* MYOAViewController.swift in Sources */,
 				D7F2B3461D37E7B400F9C540 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

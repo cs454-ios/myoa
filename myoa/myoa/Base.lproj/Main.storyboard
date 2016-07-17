@@ -27,7 +27,7 @@
         <!--View Controller-->
         <scene sceneID="yHw-49-IoB">
             <objects>
-                <viewController id="Exe-eN-Kta" customClass="MOYAViewController" customModule="myoa" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="Exe-eN-Kta" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="Yu6-X1-4tN"/>
                         <viewControllerLayoutGuide type="bottom" id="7XW-4l-vlx"/>
@@ -79,7 +79,7 @@
         <!--View Controller-->
         <scene sceneID="Zjt-bP-lHT">
             <objects>
-                <viewController id="1qb-8z-rVv" sceneMemberID="viewController">
+                <viewController id="1qb-8z-rVv" customClass="MYOAViewController" customModule="myoa" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="Tu8-yB-K9n"/>
                         <viewControllerLayoutGuide type="bottom" id="pxU-gg-9wq"/>
@@ -127,7 +127,7 @@
         <!--View Controller-->
         <scene sceneID="n3U-5Z-7U0">
             <objects>
-                <viewController id="XKF-CE-g3o" sceneMemberID="viewController">
+                <viewController id="XKF-CE-g3o" customClass="MYOAViewController" customModule="myoa" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="Iyo-qm-kze"/>
                         <viewControllerLayoutGuide type="bottom" id="5Lw-oX-BHY"/>
